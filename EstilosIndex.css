@@ -88,21 +88,43 @@ footer a:hover {
     font-size: 50px;
     background-color: white;
     padding: 10px;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 10px;
 }
 .sobremi{
     background-color: white;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     padding-top: 2px;
     padding-bottom: 2px;
     padding-left: 7px;
     padding-right: 7px;
+    border: solid black;
+    border-radius: 10px;
 }
-.stz{
+.loc{
     display: flex;
     justify-content: center;
     justify-content: space-around;
     padding: 3em;
+    height: 59em;
+}
+.stz{
+    border: solid black;
+    text-align: center;
+    border-radius: 10px;
+}
+.imgstz{
+    border: solid black;
+    border-radius: 10px;
+}
+.titstz{
+    text-align: center;
+    background-color: white;
+    margin-left: 40%;
+    margin-right: 40%;  
+}
+.map{
+    border-radius: 10px;
 }
