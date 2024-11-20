@@ -55,3 +55,13 @@ body {
 .ftheader{
     border-radius: 10px;
 }
+.tit{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    background-color: white;
+    padding: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 10px;
+}
