@@ -82,3 +82,19 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+.tit{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+    background-color: white;
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 10px;
+}
+.meme{
+ text-align: center;
+ display: flex;
+ justify-content: center;
+
+}
