@@ -55,3 +55,30 @@ body {
 .ftheader{
     border-radius: 10px;
 }
+footer {
+    color: white;
+    text-align: center;
+    width: 100%; /* Ocupar todo el ancho de la ventana */
+    background-color: #232F3E;
+    padding: 20px;
+    position: relative;
+    left: 0;
+    right: 0;
+    margin: 0; /* Asegura que no haya margen */
+    margin-top: 2vw;
+    box-sizing: border-box; /* Incluye padding en el cálculo del ancho */
+}
+
+p footer{
+    background-color: #555;
+}
+
+footer a {
+    color: #4CAF50;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
